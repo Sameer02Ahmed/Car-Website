@@ -38,3 +38,10 @@ body{
     font-family: sans-serif;
     font-weight: lighter;
 }
+.accordion{
+    color: #00344d;
+    font-family: sans-serif;
+    font-weight: bold;
+    line-height: 28.8px;
+    text-align: center;
+}
